@@ -1,0 +1,9 @@
+setup.cfg
+setup.py
+ishneholterlib/__init__.py
+ishneholterlib.egg-info/PKG-INFO
+ishneholterlib.egg-info/SOURCES.txt
+ishneholterlib.egg-info/dependency_links.txt
+ishneholterlib.egg-info/not-zip-safe
+ishneholterlib.egg-info/requires.txt
+ishneholterlib.egg-info/top_level.txt

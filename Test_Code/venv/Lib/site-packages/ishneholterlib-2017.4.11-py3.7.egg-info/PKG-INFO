@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: ishneholterlib
+Version: 2017.4.11
+Summary: A library to work with ISHNE-formatted Holter ECG files
+Home-page: https://bitbucket.org/atpage/ishneholterlib
+Author: Alex Page
+Author-email: alex.page@rochester.edu
+License: MIT
+Description: UNKNOWN
+Keywords: ISHNE Holter ECG EKG
+Platform: UNKNOWN
